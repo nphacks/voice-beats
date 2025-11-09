@@ -1,0 +1,7 @@
+{
+  "name": "VoiceBeats",
+  "description": "A voice-driven drum machine where you can set up custom vocal sounds for different drum instruments.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
